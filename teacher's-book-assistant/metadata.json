@@ -1,0 +1,5 @@
+{
+  "name": "Teacher's Book Assistant",
+  "description": "An application that uses AI to automatically generate educational materials from a book's text, including chapter summaries, keywords, discussion questions, quizzes, and character lists.",
+  "requestFramePermissions": []
+}
